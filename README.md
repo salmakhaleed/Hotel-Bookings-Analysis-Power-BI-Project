@@ -1,9 +1,8 @@
 # Hotel-Bookings-Analysis-Power-BI-Project
-Hotel Bookings Analysis: Revenue Optimization and Cancellation Risk Modeling  A business intelligence project using Power BI to visualize key performance indicators and actionable insights derived from hotel booking data, prepared and cleaned using Python. Focuses on revenue leakage, lead time risk, and seasonality.
+This project presents a comprehensive Business Intelligence (BI) analysis of hotel booking data, designed to identify major drivers of lost revenue, quantify cancellation risk, and propose actionable strategies for performance improvement.
 
 # Hotel Bookings Analysis: Revenue Optimization Dashboard
-
-This project presents a comprehensive Business Intelligence (BI) analysis of hotel booking data, designed to identify major drivers of lost revenue, quantify cancellation risk, and propose actionable strategies for performance improvement.
+Hotel Bookings Analysis: Revenue Optimization and Cancellation Risk Modeling  A business intelligence project using Power BI to visualize key performance indicators and actionable insights derived from hotel booking data, prepared and cleaned using Python. Focuses on revenue leakage, lead time risk, and seasonality.
 
 The entire workflow, from data preparation to final visualization, showcases a practical application of core data analysis tools.
 
